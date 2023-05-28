@@ -1,7 +1,7 @@
 {
   "format": 1,
   "restore": {
-    "D:\\ConfectionaryProject\\Code\\Confectionary\\ShopManagement.Application\\ShopManagement.Application.csproj": {}
+    "D:\\ConfectionaryProject\\Code\\Confectionary\\ShopManagement.EFCore\\ShopManagement.Infrustructure.EFCore.csproj": {}
   },
   "projects": {
     "D:\\ConfectionaryProject\\Code\\Confectionary\\0_Framework\\0_Framework.csproj": {
@@ -112,73 +112,6 @@
             "projectReferences": {
               "D:\\ConfectionaryProject\\Code\\Confectionary\\0_Framework\\0_Framework.csproj": {
                 "projectPath": "D:\\ConfectionaryProject\\Code\\Confectionary\\0_Framework\\0_Framework.csproj"
-              }
-            }
-          }
-        },
-        "warningProperties": {
-          "warnAsError": [
-            "NU1605"
-          ]
-        }
-      },
-      "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
-        }
-      }
-    },
-    "D:\\ConfectionaryProject\\Code\\Confectionary\\ShopManagement.Application\\ShopManagement.Application.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "D:\\ConfectionaryProject\\Code\\Confectionary\\ShopManagement.Application\\ShopManagement.Application.csproj",
-        "projectName": "ShopManagement.Application",
-        "projectPath": "D:\\ConfectionaryProject\\Code\\Confectionary\\ShopManagement.Application\\ShopManagement.Application.csproj",
-        "packagesPath": "C:\\Users\\lenovo\\.nuget\\packages\\",
-        "outputPath": "D:\\ConfectionaryProject\\Code\\Confectionary\\ShopManagement.Application\\obj\\",
-        "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
-        "configFilePaths": [
-          "C:\\Users\\lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
-        ],
-        "originalTargetFrameworks": [
-          "net6.0"
-        ],
-        "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
-        },
-        "frameworks": {
-          "net6.0": {
-            "targetAlias": "net6.0",
-            "projectReferences": {
-              "D:\\ConfectionaryProject\\Code\\Confectionary\\0_Framework\\0_Framework.csproj": {
-                "projectPath": "D:\\ConfectionaryProject\\Code\\Confectionary\\0_Framework\\0_Framework.csproj"
-              },
-              "D:\\ConfectionaryProject\\Code\\Confectionary\\ShopManagement.Application.Contracts\\ShopManagement.Application.Contracts.csproj": {
-                "projectPath": "D:\\ConfectionaryProject\\Code\\Confectionary\\ShopManagement.Application.Contracts\\ShopManagement.Application.Contracts.csproj"
-              },
-              "D:\\ConfectionaryProject\\Code\\Confectionary\\ShopManagement.EFCore\\ShopManagement.Infrustructure.EFCore.csproj": {
-                "projectPath": "D:\\ConfectionaryProject\\Code\\Confectionary\\ShopManagement.EFCore\\ShopManagement.Infrustructure.EFCore.csproj"
               }
             }
           }
